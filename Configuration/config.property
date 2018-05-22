@@ -1,0 +1,8 @@
+ChromeDriver=C:\\SeleniumDrivers\\chromedriver.exe
+FirefoxDriver=C:\\SeleniumDrivers\\geckodriver.exe
+IEDriver=C:\\SeleniumDrivers\\IEDriverServer.exe
+URL=http://demo.cyclos.org
+DBServer=
+DBPort=
+DBUsername=
+DBPassword=
